@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm ERICK MWANGI</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-<iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" align="right" width="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL"></a></p>
-
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" height="480px" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickmwasofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rickmwasofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmwasofficial" alt="rickmwasofficial" /></a> </p>
