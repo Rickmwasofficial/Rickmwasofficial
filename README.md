@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/software-development-coding-process-concept-programming-1396210841)](https://github.com/Rickmwasofficial)
+<img src="https://github.com/Rickmwasofficial/Rickmwasofficial/blob/main/pexels-neo-2653362.jpg" height="280px" width="100%">
 <h1 align="center">Hi 👋, I'm ERICK MWANGI</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
