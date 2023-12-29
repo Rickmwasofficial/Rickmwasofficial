@@ -1,8 +1,7 @@
-<img src="https://github.com/Rickmwasofficial/Rickmwasofficial/blob/main/pexels-neo-2653362.jpg" height="280px" width="100%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="280px" width="100%">
 <h1 align="center">Hi 👋, I'm ERICK MWANGI</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" height="480px" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickmwasofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rickmwasofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmwasofficial" alt="rickmwasofficial" /></a> </p>
