@@ -5,8 +5,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rickmwasofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rickmwasofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rickmwasofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickmwasofficial" alt="rickmwasofficial" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rickoo5776" target="blank"><img src="https://img.shields.io/twitter/follow/rickoo5776?logo=twitter&style=for-the-badge" alt="rickoo5776" /></a> </p>
 
 
