@@ -8,15 +8,13 @@
 <p align="left"> <a href="https://twitter.com/rickoo5776" target="blank"><img src="https://img.shields.io/twitter/follow/rickoo5776?logo=twitter&style=for-the-badge" alt="rickoo5776" /></a> </p>
 
 
-- 🔭 I’m currently working on **a movie recommendation website**
+- 🌱 I’m currently learning **Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn**
 
-- 🌱 I’m currently learning **Javascript, PHP, Tensorflow**
-
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **Python, Pandas, Numpy, Matplotlib**
 
 - 📫 How to reach me **rickmwasofficial@gmail.com**
 
-- ⚡ Fun fact **I am interested in AI ML and it's applications in medicene..**
+- ⚡ Fun fact **I am interested in AI ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
